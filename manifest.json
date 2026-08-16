@@ -1,0 +1,16 @@
+{
+  "name": "Hits 20 Radio Online",
+  "short_name": "Hits 20",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "assets/logo-redes.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
